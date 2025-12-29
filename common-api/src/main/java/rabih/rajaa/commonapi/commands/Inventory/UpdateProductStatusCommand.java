@@ -1,4 +1,4 @@
-package rabih.rajaa.commonapi.commands;
+package rabih.rajaa.commonapi.commands.Inventory;
 
 
 import lombok.Getter;

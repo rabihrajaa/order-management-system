@@ -1,7 +1,6 @@
-package rabih.rajaa.commonapi.events;
+package rabih.rajaa.commonapi.events.Inventory;
 
 import lombok.Getter;
-import rabih.rajaa.commonapi.events.BaseEvent;
 
 public class ProductStockUpdatedEvent extends BaseEvent<String> {
     @Getter private int quantity;
